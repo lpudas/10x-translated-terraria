@@ -1,0 +1,9 @@
+ {
+    "Name": "10x Translated Terraria",
+    "Author": "Glob",
+    "Description": "English but all text has gone through 10 random translations before being translated back to English",
+    "Version": {
+        "major": 1,
+        "minor": 0
+    }
+}
