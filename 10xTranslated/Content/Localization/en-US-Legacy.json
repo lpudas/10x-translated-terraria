@@ -91,7 +91,9 @@
         "88": "Plant",
         "89": "Place objects",
         "90": "Depth of form",
-        "91": "No trap"
+        "91": "No trap",
+        "92": "The subway's on!",
+        "93": "The room fell from the sky!"
     },
     "LegacyDialog": {
         "1": "I hope it's not all between us and Cult's eyes.",
@@ -804,7 +806,8 @@
         "60": "Unable to load or remove purchase",
         "7": "Very fast",
         "8": "Speed",
-        "9": "Average speed"
+        "9": "Average speed",
+        "61": "Do not work in social conditions"
     },
     "LegacyMultiplayer": {
         "0": "I understand. I understand what you're saying",
@@ -1068,7 +1071,8 @@
         "97": "Fisheries",
         "98": "Password",
         "99": "deep",
-        "9": "Visits"
+        "9": "Visits",
+        "125": "To serve God in fire"
     },
     "LegacyChestType": {
         "0": "Brest",
@@ -1161,6 +1165,28 @@
         "40": "{$ItemName.CoralDresser}",
         "41": "{$ItemName.BalloonDresser}",
         "42": "{$ItemName.AshWoodDresser}",
+        "43": "{$ItemName.AetheriumDresser}",
+        "44": "{$ItemName.FallenStarDresser}",
+        "45": "{$ItemName.FeywoodDresser}",
+        "46": "{$ItemName.HallowedDresser}",
+        "47": "{$ItemName.GothicDresser}",
+        "48": "{$ItemName.DemoniteDresser}",
+        "49": "{$ItemName.CrimtaneDresser}",
+        "50": "{$ItemName.SnowDresser}",
+        "51": "{$ItemName.FlinxFurDresser}",
+        "52": "{$ItemName.PineDresser}",
+        "53": "{$ItemName.EasterDresser}",
+        "54": "{$ItemName.StoneDresser}",
+        "55": "{$ItemName.JellyfishDresser}",
+        "56": "{$ItemName.HarpyDresser}",
+        "57": "{$ItemName.CloudDresser}",
+        "58": "{$ItemName.MoonplateDresser}",
+        "59": "{$ItemName.LibrarianDresser}",
+        "60": "{$ItemName.SpikeDresser}",
+        "61": "{$ItemName.OfficeDresser}",
+        "62": "{$ItemName.ForbiddenDresser}",
+        "63": "{$ItemName.WaterDresser}",
+        "64": "{$ItemName.BoulderDresser}",
         "3": "Forest clothing industry",
         "4": "Cover wood and coat",
         "5": "Blue",
@@ -1186,6 +1212,27 @@
         "13": "Originally published as Dungeon Desert Chester",
         "14": "{$ItemName.CoralChest}",
         "15": "{$ItemName.BalloonChest}",
-        "16": "{$ItemName.AshWoodChest}"
+        "16": "{$ItemName.AshWoodChest}",
+        "17": "{$ItemName.AetheriumChest}",
+        "18": "{$ItemName.FallenStarChest}",
+        "19": "{$ItemName.FeywoodChest}",
+        "20": "{$ItemName.HallowedChest}",
+        "21": "{$ItemName.GothicChest}",
+        "22": "{$ItemName.DemoniteChest}",
+        "23": "{$ItemName.CrimtaneChest}",
+        "24": "{$ItemName.SnowChest}",
+        "25": "{$ItemName.FlinxFurChest}",
+        "26": "{$ItemName.PineChest}",
+        "27": "{$ItemName.EasterChest}",
+        "28": "{$ItemName.StoneChest}",
+        "29": "{$ItemName.JellyfishChest}",
+        "30": "{$ItemName.HarpyChest}",
+        "31": "{$ItemName.CloudChest}",
+        "32": "{$ItemName.MoonplateChest}",
+        "33": "{$ItemName.LibrarianChest}",
+        "34": "{$ItemName.SpikeChest}",
+        "35": "{$ItemName.OfficeChest}",
+        "36": "{$ItemName.ForbiddenChest}",
+        "37": "{$ItemName.BoulderChest}"
     }
 }

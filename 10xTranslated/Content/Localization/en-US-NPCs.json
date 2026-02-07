@@ -1,4 +1,33 @@
 {
+    "SpecialNPCName": {
+        "DirtSlime": "Smile, dirty",
+        "StoneSlime": "Stone Files",
+        "CloudSlime": "Fusion in the Cloud",
+        "WebSlime": "Website",
+        "WoodSlime": "Management",
+        "GraniteSlime": "Granite Slim",
+        "MarbleSlime": "Slide Marmo",
+        "SpikeSlime": "Helix Slide",
+        "TorchSlime": "Torches",
+        "PooSlime": "Key",
+        "HiveSlime": "Summer nest",
+        "HoneySlime": "Slim Love",
+        "HerbSlime": "Herbal lime",
+        "BalloonSlime": "The balloon melted",
+        "ConfettiSlime": "Slim of Confetti",
+        "SlushSlime": "Super",
+        "SnowSlime": "Fish",
+        "FossilSlime": "Foam layer",
+        "HeartSlime": "Heart disease",
+        "HellSlime": "Rich light",
+        "ConveyorSlime": "Smart Transporter",
+        "CobaltSlime": "Cobalt",
+        "PalladiumSlime": "Lum",
+        "MythrilSlime": "Mysterious Slim",
+        "OrichalcumSlime": "Spiral tail",
+        "AdamantiteSlime": "Adamslin",
+        "TitaniumSlime": "Titan Slam"
+    },
     "NPCName": {
         "BlueSlime": "Blue",
         "GiantWormHead": "Serious error",
@@ -693,6 +722,15 @@
         "TownSlimeCopper": "Lonely driver",
         "BoundTownSlimeOld": "Gen",
         "BoundTownSlimePurple": "Non-motorized balloons",
-        "BoundTownSlimeYellow": "Frog mystery"
+        "BoundTownSlimeYellow": "Frog mystery",
+        "Pufferfish": "Australia",
+        "OwlMimic": "Horses",
+        "StatueMimic": "Status",
+        "MossZombie": "Walrus juice",
+        "Orca": "Provisions",
+        "LibrarianSkeleton": "Skelleton Library",
+        "WaterBoltMimic": "Bottle of water",
+        "PalworldCattivaDistressed": "{$ItemName.PalworldMinionCattiva}",
+        "PalworldFoxsparksDistressed": "{$ItemName.PalworldMinionFoxsparks}"
     }
 }

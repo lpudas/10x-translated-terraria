@@ -6,7 +6,9 @@
         "HoleInWallIsTooBig": "There are no walls in this room",
         "RoomCheckStartedInASolidTile": "It's a block!",
         "RoomHasAStinkbug": "This room is infected by a rich worm!",
-        "RoomHasAnEchoStinkbug": "This room is full of ghost makeup!"
+        "RoomHasAnEchoStinkbug": "This room is full of ghost makeup!",
+        "RoomHasNoStandingSpace": "There's no room to stay in this room!",
+        "RoomHasUnsafeWalls": "The natural walls of this room must be replaced!"
     },
     "MerchantNames": {
         "Alfred": "Alfredo",
@@ -646,7 +648,8 @@
         "Charlie": "Charlie",
         "Rascal": "Horn",
         "Critter": "Christ",
-        "Adol": "Adolf"
+        "Adol": "Adolf",
+        "Lawnmower": "Beetroot"
     },
     "CatNames_RussianBlue": {
         "Alexi": "Alex",
@@ -686,7 +689,8 @@
         "Cutie": "Cargo",
         "Renne": "Lena, how are you",
         "Miette": "Lua",
-        "Tula": "Tura"
+        "Tula": "Tura",
+        "Kibby": "The kibium"
     },
     "CatNames_White": {
         "Misty": "Dirty",
@@ -723,7 +727,9 @@
         "Bitsy": "Beings",
         "Mike": "Mike",
         "Sparky": "Asparago",
-        "Lucky": "You're lucky"
+        "Lucky": "You're lucky",
+        "Bubbles": "Bubbler",
+        "Tank": "Tanks"
     },
     "DogNames_PitBull": {
         "Max": "Maximum",
@@ -770,7 +776,9 @@
         "Ammy": "Amy",
         "Charles": "Charles",
         "Estelle": "Estelle",
-        "Astro": "Astro"
+        "Astro": "Astro",
+        "Kilo": "Kg",
+        "AK": "Activities"
     },
     "DogNames_Dalmation": {
         "Spot": "Points",
@@ -819,7 +827,8 @@
         "Inaba": "Five",
         "Shirayuki": "Chisha",
         "Lilia": "Lilia",
-        "Ears": "Ears"
+        "Ears": "Ears",
+        "Jimothy": "Jimmy"
     },
     "BunnyNames_Angora": {
         "Breadbuns": "Kammarkristaller",
@@ -1202,56 +1211,67 @@
     "CatChatter": {
         "Chatter_1": "Easy!",
         "Chatter_2": "Before that.",
-        "Chatter_3": "Melo!"
+        "Chatter_3": "Melo!",
+        "NoHome": "What are you doing?"
     },
     "DogChatter": {
         "Chatter_1": "You!",
         "Chatter_2": "Kora!",
-        "Chatter_3": "Haw!"
+        "Chatter_3": "Haw!",
+        "NoHome": "Woof?"
     },
     "BunnyChatter": {
         "Chatter_1": "Ray sees...",
-        "Chatter_2": "Sorry, I don't know. Left, right"
+        "Chatter_2": "Sorry, I don't know. Left, right",
+        "NoHome": "Are those rabbits? What?"
     },
     "SlimeBlueChatter": {
         "Chatter_1": "Congratulations!",
         "Chatter_2": "Children have less. Go!",
-        "Chatter_3": "- Yeah, yeah."
+        "Chatter_3": "- Yeah, yeah.",
+        "NoHome": "Bubbles?"
     },
     "SlimeGreenChatter": {
         "Chatter_1": "Captain!",
         "Chatter_2": "Hezf Hezl!",
-        "Chatter_3": "Stop!"
+        "Chatter_3": "Stop!",
+        "NoHome": "Do you like it?"
     },
     "SlimeOldChatter": {
         "Chatter_1": "Bad!",
         "Chatter_2": "Friday!",
-        "Chatter_3": "Is there a supplement!"
+        "Chatter_3": "Is there a supplement!",
+        "NoHome": "Is that bad?"
     },
     "SlimeRainbowChatter": {
         "Chatter_1": "Let her go!",
         "Chatter_2": "Bitch, Tinkerbell!",
-        "Chatter_3": "I'm sorry, Rip!"
+        "Chatter_3": "I'm sorry, Rip!",
+        "NoHome": "Are you brave?"
     },
     "SlimePurpleChatter": {
         "Chatter_1": "Beer.",
         "Chatter_2": "Unsatisfactory silence",
-        "Chatter_3": "P."
+        "Chatter_3": "P.",
+        "NoHome": "Berp?"
     },
     "SlimeRedChatter": {
         "Chatter_1": "Bad bubble!",
         "Chatter_2": "Gus.",
-        "Chatter_3": "Dad."
+        "Chatter_3": "Dad.",
+        "NoHome": "Mob?"
     },
     "SlimeYellowChatter": {
         "Chatter_1": "Bubble! Turn the glue!",
         "Chatter_2": "Bald Block!",
-        "Chatter_3": "Kasploosh!"
+        "Chatter_3": "Kasploosh!",
+        "NoHome": "Eggs?"
     },
     "SlimeCopperChatter": {
         "Chatter_1": "Get out of here!",
         "Chatter_2": "Crassus!",
-        "Chatter_3": "Here!"
+        "Chatter_3": "Here!",
+        "NoHome": "Blip Blop?"
     },
     "BestiaryGirlSpecialText": {
         "Party": "I can't wear that hat!",
@@ -1778,6 +1798,9 @@
         "Windy1": "The world is timely and chaotic. I like stuck bones!",
         "Storm1": "The surface is too long for destructive times. Singing hurts my skin!",
         "Rain1": "I hear you're wet."
+    },
+    "SkeletonMerchantChatter": {
+        "1": "Why do you need it?"
     },
     "GolferQuestsChatterMaster": {
         "1": "You are a God who goes under mortals!",
@@ -2315,5 +2338,9 @@
         "LoveNPC_TownDog": "Slide!",
         "LoveNPC_TownBunny": "Very nice!",
         "LoveNPC_TownSlime": "All right!"
+    },
+    "HousingText": {
+        "HousingRequirements": "You need a door, chair, table and light, make sure that the house has a wall. I don\u2019t know",
+        "HousingRequirements_Truffle": "You should have fields of fungi and doors, chairs, tables and light sources to make sure the house has walls"
     }
 }
