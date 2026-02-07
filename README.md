@@ -9,5 +9,5 @@ Created using LibreTranslate:
 https://github.com/LibreTranslate/LibreTranslate
 
 **Notes:**
-- Terraria Version: `1.4.4.9`
+- Terraria Version: `1.4.5`
 - Contains crude language
